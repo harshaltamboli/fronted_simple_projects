@@ -1,0 +1,372 @@
+h2{
+    height: 40px;
+    width: 100%px;
+    background-color: #06759457;
+    align-items: center;
+}
+
+/* Navbar Line 1 */
+.navbar{
+    height: 100px;
+    width: 100%;
+    background-color: #688989;
+    color: white;
+    display: flex;
+    
+}
+.nav_logo {
+    height: 100px;
+    width: 100px;
+   align-items: center;
+   justify-content: space-evenly;
+    display: flex;
+    background-size: cover;
+        margin-left: 120px;
+}
+.logo {
+    background-image: url("vestige.png");
+    background-size: cover;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.nav_logo{
+    height: 100px;
+    width: 100px;
+   align-items: center;
+   justify-content: space-evenly;
+    display: flex;
+    background-size: cover;
+    margin-left: 140px;
+    
+}
+.deepak{
+    background-image: url("deepak\ sood.jfif");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100%;
+    display: flex; 
+    justify-content: space-evenly;
+}
+.nav_logo{
+    height: 100px;
+    width: 100px;
+   align-items: center;
+   justify-content: space-evenly;
+    display: flex;
+    background-size: cover;
+    margin-left: 140px;
+}
+
+.kanwar{
+    background-image:url(kanwar.jfif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.nav_logo{
+    height: 100px;
+    width: 100px;
+   align-items: center;
+   justify-content: space-evenly;
+    display: flex;
+    background-size: cover;
+    margin-left: 140px;
+}
+
+.gautam{
+    background-image:url(gautam.jfif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.nav_logo{
+    height: 100px;
+    width: 100px;
+   align-items: center;
+   justify-content: space-evenly;
+    display: flex;
+    background-size: cover;
+    margin-left: 140px;
+}
+
+.vestige2{
+    background-image:url(vestige2.jfif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+    
+    
+.border{
+    margin: 3px;
+}
+.border:hover{
+    background-color: white;
+}
+.border1:hover{
+    background-color: burlywood;
+}
+/* navibar 3  */
+.navbar_line{
+    height: 70px;
+    width: 100%;
+    display: flex;
+    background-color: rgb(11, 50, 88);;
+  
+}
+.navbar_site{
+    display: flex;
+    color: white;
+    align-items: center;
+    height: 70 px;
+    
+}
+.home{
+    margin-left: 140px;
+}
+.shop{
+margin-left: 140px;
+
+}
+.brand{
+    margin-left: 140px;
+}
+.service{
+
+    margin-left: 140px;
+}
+
+.mo{
+    margin-left: 140px;
+}
+
+.home:hover{
+    background-color: rgb(226, 238, 178);
+    background-size: cover;
+    font-size: 15px;
+    border-style: solid red;
+}
+
+.shop:hover{
+    background-color: rgb(226, 238, 178);
+    background-size: cover;
+    font-size: 15px;
+
+}
+
+.brand:hover{
+    background-color: rgb(226, 238, 178);
+    background-size: cover;
+    font-size: 15px;
+
+}
+
+
+.service:hover{
+    background-color: rgb(226, 238, 178);
+    background-size: cover;
+    font-size: 15px;
+
+}
+
+.mo:hover{
+    background-color: rgb(226, 238, 178);
+    background-size: cover;
+    font-size: 15px;
+
+}
+
+/* search bar navbar 4 line*/
+
+.navbar_four{
+    height: 70px;
+    width: 100%;
+    background-color: rgb(42, 112, 139);
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center;     /* Center vertically */
+    padding-left: 300px;     /* Adds space to the left while keeping background full-width */
+    box-sizing: border-box;  /* Ensures padding is included in the width */
+    margin-top: 20px;
+    
+}
+
+.select_all{
+    height: 44px;
+    border-radius: 4px;
+}
+.select_input{
+    height: 40px;
+    width: 350px ;
+    border-radius: 4px;
+    
+}
+
+.heading1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 50px;
+    width: 100%;
+    background-color: aquamarine;
+    color: black;
+    justify-content: center;
+    align-items: center;
+    border: 20px;
+
+}
+
+/* images bar line 1*/
+
+.image{
+ 
+     display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    background-color: #e2e7e6;
+ 
+}
+
+.box{
+    border: 2px solid black;
+    height: 300px;
+    width: 20%;
+    background-color: white;
+    align-items: center;
+    background-size: cover;
+   background-repeat: no-repeat;
+   justify-content: space-evenly;
+   
+}
+
+.box1_img{
+    height: 200px;
+    width: 150px;
+    align-items: center; 
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 25px;
+    margin-bottom: 20px;
+}
+.box2_img{
+    height: 200px;
+    width: 150px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    align-items: center;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 25px;
+    margin-bottom: 40px;
+
+
+}
+
+.box3_img{
+    height: 250px;
+    width: 200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    align-items: center;
+    margin-top: 5px;
+    margin-left: 50px;
+    margin-right: 25px;
+    margin-bottom: 40px;
+
+}
+
+
+.box4_img{
+    height: 200px;
+    width: 150px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    align-items: center;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 25px;
+    margin-bottom: 20px;
+
+}
+
+    /* images bar Line 2 */
+
+.heading2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 50px;
+    width: 100%;
+    background-color: aquamarine;
+    color: black;
+    justify-content: center;
+    align-items: center;
+    border: 20px;
+
+}
+
+/* footer section */
+
+.info{
+    margin-top: 50px;
+    height: 50px;
+    width: 100%;
+    background-color: #37475a;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    
+}
+
+.info2{
+    margin-top: 120px;
+    background-color: #222f3d;
+    height: 380px;
+    width: 100%;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+ul a {
+    
+        display: block;
+
+        font-size: 20px;
+
+        margin-top: 15px;
+        color: bisque;
+}
+
+ul a:hover{
+    background-color: #DAA520;
+}
+
+
+ul p {
+    font-size: larger;
+    
+}
+
+ul p:hover {
+    border: 3px solid white; /* Border appears on hover */
+    border: 3px solid white;
+    
+}
